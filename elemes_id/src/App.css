@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.custom-green{
+    background-color:  #8BAC3E;     
+}
+
+.green:hover{
+    color: #8BAC3E;
+}
+
+.text-green{
+    color: #8BAC3E;
+}
