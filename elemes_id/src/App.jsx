@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div className="font-[Rubik]">
+        {/* Header */}
         <header id="header" className="relative">
           <div>
             <img
@@ -25,19 +26,25 @@ function App() {
           </div>
         </header>
 
+        {/* Main Content */}
         <section id="categories" className="py-10">
           <Category />
         </section>
+
 
         <section id="trending" className="py-20">
           <Trending />
         </section>
 
-        <footer id="footer" className="hidden sm:flex justify-center w-full mb-5">
+        {/* Footer */}
+        <footer
+          id="footer"
+          className="hidden sm:flex justify-center w-full mb-5"
+        >
           <Footer />
         </footer>
         <div className="bottom text-slate-400 font-light text-center justify-center mb-10 hidden sm:flex">
-        © 2021 Elemes id. All rights reserved
+          © 2021 Elemes id. All rights reserved
         </div>
       </div>
     </>
