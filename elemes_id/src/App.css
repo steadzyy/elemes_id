@@ -11,3 +11,23 @@
 .text-green{
     color: #8BAC3E;
 }
+
+.card-kebab {
+    background-color: #EAEEFA;
+}
+
+.card-cupcake {
+    background-color: #F0FEEB;
+}
+
+.card-pizza {
+    background-color: #E6F3F5;
+}
+
+.card-salmon {
+    background-color: #F9EEF3;
+}
+
+.card-doughnut { 
+    background-color: #F3F7D9;
+}

@@ -7,7 +7,7 @@ const Navbar = () => {
         {/* kiri */}
         <div className="px-4">
           <a href="#" className="font-bold text-lg text-teal-500 block py-6">
-            <img src="../public/logo.png" alt="logo_elemesGroup" />
+            <img src="../logo.png" alt="logo_elemesGroup" />
           </a>
         </div>
         {/* tengah */}
