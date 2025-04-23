@@ -1,3 +1,23 @@
+# PREREQUISITES
+
+## Clone Repository
+```
+- git clone https://github.com/steadzyy/elemes_id.git
+
+- cd elemed_id
+
+- code .
+```
+
+## Install Dependecies
+```
+npm i / npm install
+```
+
+## Running Project
+```
+npm run dev
+```
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
