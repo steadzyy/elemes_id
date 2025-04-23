@@ -3,48 +3,56 @@
     "name": "Pizza Paperoni",
     "Category": "Pizza",
     "Items": 25,
-    "Rating": 4
+    "Rating": 4,
+    "img" : "../../public/paperoni.jpeg"
   },
   {
     "name": "Pizza Meat",
     "Category": "Pizza",
     "Items": 25,
-    "Rating": 3
+    "Rating": 3,
+    "img" : "../../public/meat.jpeg"
   },
   {
     "name": "Doner Kebab",
     "Category": "Kebab",
     "Items": 12,
-    "Rating": 5
+    "Rating": 5,
+    "img" : "../../public/doner.jpeg"
   },
   {
     "name": "Salmon Roll",
     "Category": "Salmon",
     "Items": 22,
-    "Rating": 4
+    "Rating": 4,
+    "img" : "../../public/salmon.jpeg"
   },
   {
     "name": "Cupcake Choco",
     "Category": "Cupcake",
     "Items": 22,
-    "Rating": 4
+    "Rating": 4,
+    "img" : "../../public/cupcake.jpeg"
   },
   {
     "name": "Doughnut Milk",
     "Category": "Doughnut",
     "Items": 11,
-    "Rating": 5
+    "Rating": 5,
+    "img" : "../../public/milk.jpeg"
   },
   {
     "name": "Doughnut Unicorn",
     "Category": "Doughnut",
     "Items": 11,
-    "Rating": 4
+    "Rating": 4,
+    "img" : "../../public/unicorn.jpeg"
   },
   {
     "name": "Kathi Kebab",
     "Category": "Kebab",
     "Items": 12,
-    "Rating": 4
+    "Rating": 4,
+    "img" : "../../public/kathi.jpeg"
   }
 ]

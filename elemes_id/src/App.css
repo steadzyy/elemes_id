@@ -1,15 +1,23 @@
 @import "tailwindcss";
 
+body {
+    font-family: 'Rubik';
+  }
+
 .custom-green{
     background-color:  #8BAC3E;     
 }
 
-.green:hover{
+.green-hover{
     color: #8BAC3E;
 }
 
 .text-green{
     color: #8BAC3E;
+}
+
+.border-green{
+    border-color: #8BAC3E;
 }
 
 .card-kebab {
@@ -30,4 +38,12 @@
 
 .card-doughnut { 
     background-color: #F3F7D9;
+}
+
+.footer-green{
+    background-color: #F9FFF6;
+}
+
+.text-xxs{
+    font-size: 9px;
 }

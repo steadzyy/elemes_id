@@ -15,7 +15,7 @@ const Trending = () => {
         <Card/>
       </div>
 
-      <div className="container mx-auto justify-center text-center">
+      <div className="container mx-auto justify-center text-center hidden sm:flex">
         <button className="custom-green text-white px-6 py-3 rounded-full space-x-3">
             ALL Receipt
         </button>

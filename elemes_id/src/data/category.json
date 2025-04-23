@@ -1,19 +1,27 @@
 [
-    {
-      "Category": "Pizza"
-    },
-    {
-
-      "Category": "Kebab"
-    },
-    {
-      "Category": "Salmon"
-    },
-    {
-      "Category": "Cupcake"
-    },
-    {
-      "Category": "Doughnut"
-    }
-  ]
-  
+  {
+    "Category": "Cupcake",
+    "Items": 22,
+    "img": "../../public/cupcat.png"
+  },
+  {
+    "Category": "Pizza",
+    "Items": 25,
+    "img": "../../public/pizzacat.png"
+  },
+  {
+    "Category": "Kebab",
+    "Items": 12,
+    "img": "../../public/kebabcat.png"
+  },
+  {
+    "Category": "Salmon",
+    "Items": 22,
+    "img": "../../public/salmoncat.png"
+  },
+  {
+    "Category": "Doughnut",
+    "Items": 11,
+    "img": "../../public/donatcat.png"
+  }
+]
